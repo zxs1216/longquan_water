@@ -97,6 +97,4 @@ MIT License
 
 欢迎提交 Issue 和 Pull Request！
 
-## 致谢
 
-感谢龙泉水务（天长）有限公司提供的数据接口。
