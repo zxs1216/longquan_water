@@ -1,11 +1,11 @@
 {
   "domain": "longquan_water",
   "name": "龙泉水务",
-  "codeowners": ["@yourusername"],
+  "codeowners": ["@zxs1216"],
   "config_flow": true,
-  "documentation": "https://github.com/yourusername/longquan_water",
+  "documentation": "https://github.com/zxs1216/longquan_water",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/yourusername/longquan_water/issues",
-  "requirements": [],
+  "issue_tracker": "https://github.com/zxs1216/longquan_water/issues",
+  "requirements": ["aiohttp"],
   "version": "1.0.0"
 }
